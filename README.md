@@ -1,8 +1,5 @@
 # Android Photo Gallery App
 
-## Overview
-This is an Android photo gallery application that integrates with RESTful APIs, including Flickr for image retrieval and OSMDroid for map-based geolocation features. The app allows users to browse, search, and save images while displaying geotagged photos on an interactive map.
-
 ## Tech Stack
 ### **Frontend (Android App)**
 - **Language:** Java/Kotlin
